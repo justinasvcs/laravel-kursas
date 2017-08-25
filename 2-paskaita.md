@@ -44,7 +44,7 @@
 
 ## Užduotys
 
-1. `About` puslapyje norime išsivesti savo įgūdžius, galutinis rezultatas šabloniškai gali atrodyti taip:
+1. Kuriame naują puslapį `Skills`. Jame norime išsivesti savo įgūdžius, galutinis rezultatas šabloniškai gali atrodyti taip:
 
 ```
 HTML ***** (10 metų)
