@@ -38,6 +38,6 @@
 
 ## Užduotys
 
-1. Sukurti puslapį, kuriame būtų išvedamas vienas atsiliepimas pagal jo ID panaudojant `Skill::find($id)` metodą. Mums reikės: naujo route su kintamuoju `id`, jau turimame `Testimonials` controlleryje naujo metodo `getSingle($id)` ir naujo view failo `single-testimonial.blade.php`.
+1. Papildyti 2 paskaitos užduotį sukuriant DB lentelę `skills`, modelį `Skill` bei išvedant duomenis pasinaudojus sukurtu modeliu bei metodu `Skill::get()`.
 
-2. Papildyti 2 paskaitos užduotį sukuriant DB lentelę `skills`, modelį `Skill` bei išvedant duomenis pasinaudojus sukurtu modeliu bei metodu `Skill::get()`.
+2. Sukurti puslapį, kuriame būtų išvedamas vienas atsiliepimas pagal jo ID panaudojant `Skill::find($id)` metodą. Mums reikės: naujo route su kintamuoju `id`, jau turimame `Skills` controlleryje naujo metodo `getSingle($id)` ir naujo view failo `single-skill.blade.php`.
