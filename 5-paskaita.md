@@ -14,11 +14,19 @@
 
 3.1. Eloquent modelio metodas `update()`
 
+3.2. Formos kūrimas, `method_field('PUT')` laukelio generavimas PUT metodo spoofinimui
+
 4. CRUD: delete
 
 4.1. Eloquent modelio metodai `delete()` ir `destroy()`
 
+4.2. Formos kūrimas, `method_field('DELETE')` laukelio generavimas DELETE metodo spoofinimui
+
 5. Users scaffolding
+
+5.1. `php artisan make:auth` komanda
+
+5.2. `Auth::routes()` metodas
 
 6. Trumpai apie middleware mechanizmą
 
