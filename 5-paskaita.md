@@ -28,7 +28,9 @@
 
 5.2. `Auth::routes()` metodas
 
-6. Trumpai apie middleware mechanizmą
+6. `redirect()` helper funkcija
+
+7. Trumpai apie middleware mechanizmą
 
 ## Užduotys
 
