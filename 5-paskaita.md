@@ -24,9 +24,11 @@
 
 5. Users scaffolding
 
-5.1. `php artisan make:auth` komanda
+5.1. Pašalintų migracijų grąžinimas: [failai čia](https://gist.github.com/justinasvcs/f3a65f4434f5c4ea143d70f431374707)
 
-5.2. `Auth::routes()` metodas
+5.2. `php artisan make:auth` komanda
+
+5.3. `Auth::routes()` metodas
 
 6. `redirect()` helper funkcija
 
