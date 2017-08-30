@@ -34,6 +34,8 @@
 
 Dalis užduočių turėjo būti pateiktos anksčiau, dirbame toliau su skills duomenų tipu ir pasipildom naujais dalykais:
 
+0. Jeigu dar neturime susikūrę `Skill` modelio, susikurkime jį. Visus kitus žingsnius galima vykdyti iš eilės nežiūrint į ankstesnes užduotis. Tačiau jei kas neaišku, ankstesnėse užduotyse galime rasti detalių, už kurių užsikabinus pasidarytų aiškiau :)
+
 1. Susikurti DB migraciją skills lentelės sukūrimui.
 
 2. Susikurti DB seederį skills lentelės užpildymui "dummy" duomenimis.
