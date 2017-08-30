@@ -32,4 +32,14 @@
 
 ## Užduotys
 
-Ruošiama.
+Dalis užduočių turėjo būti pateiktos anksčiau, dirbame toliau su skills duomenų tipu ir pasipildom naujais dalykais:
+
+1. Susikurti DB migraciją skills lentelės sukūrimui.
+
+2. Susikurti DB seederį skills lentelės užpildymui "dummy" duomenimis.
+
+3. Susikurti skills resource controller'į bei atitinkamai atnaujinti route'us.
+
+4. Pasidaryti skills CRUD užpildant resource controllerį. Reikės susikurti naujus šablonus, skirtus skillsų atvaizdavimui (sąrašui ir vieno įrašo), kūrimui, redagavimui.
+
+5. Skill įrašo validacija susikuriant request objektą `StoreSkillRequest` ir jame apsirašant taisykles. Visi laukeliai turi būti privalomi, o reitingas/įvertinimas - būtinai skaičius, kur mažiausia reikšmė - 1, o didžiausia - 5.
