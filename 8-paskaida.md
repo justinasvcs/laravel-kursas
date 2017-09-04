@@ -1,4 +1,4 @@
-# Laravel: 7 paskaita
+# Laravel: 8 paskaita
 
 ## Video
 
